@@ -15,3 +15,13 @@ Welcome to my Quality Assurance portfolio repository! This project showcases com
 * **Test Case Management:** Zephyr Scale
 * **Web Inspection:** Chrome DevTools (DOM, XPath, CSS Selectors)
 * **Documentation:** Markdown, PDF
+
+## 📁 Project Artifacts & Documents
+
+- 📊 **Test Execution Suite:** [`docs/Test_Cases_Execution_Matrix.pdf`](./docs/Test_Cases_Execution_Matrix.pdf)
+- 🐞 **Jira Defect Artifact (KT-7):** [`bug-reports/KT-7_Broken_Product_Images.md`](./bug-reports/KT-7_Broken_Product_Images.md)
+
+## 📊 Suite Execution Summary
+- **Total Executed:** 10 Test Cases
+- **Passed:** 9 Test Cases (90% Pass Rate)
+- **Failed:** 1 Test Case (Logged as Jira Ticket KT-7)
